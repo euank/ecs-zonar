@@ -24,7 +24,7 @@ numbered variables, such as `_ECS_R53_DNS1` and so on.
 # How consistent is this?
 
 **Eventually**, aka as consistent as DNS. I like to think that it has roughly
-the consistency of uncooked Cookie dough &mdash; it's tempting, but ultimately
+the consistency of uncooked cookie dough &mdash; it's tempting, but ultimately
 will make you sick.
 
 # TODO
