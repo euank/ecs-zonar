@@ -1,0 +1,19 @@
+{
+	"family": "ecs-zonar",
+	"containerDefinitions": [{
+		"image": "euank/ecs-zonar",
+		"name": "bob",
+		"cpu": 0,
+		"memory": 15,
+		"environment": [{
+			"name": "TRANSCEND_CLUSTERS",
+			"value": "TRUE"
+		}, {
+			"name": "AWS_REGION",
+			"value": "us-west-2"
+		}, {
+			"name": "DNS_TTL",
+			"value": "30"
+		}]
+	}]
+}
