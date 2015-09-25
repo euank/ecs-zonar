@@ -4,7 +4,7 @@
 		"image": "euank/ecs-zonar",
 		"name": "bob",
 		"cpu": 0,
-		"memory": 15,
+		"memory": 75,
 		"environment": [{
 			"name": "TRANSCEND_CLUSTERS",
 			"value": "TRUE"
