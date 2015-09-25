@@ -33,6 +33,7 @@ Cookie dough &mdash; it's tempting, but ultimately will make you sick.
 2. Register SRV records to capture dynamic ports?
 3. Allow configurable TTL per task maybe?
 4. Something something Route53 healthchecks something something bad idea.
+5. Tests
 
 # That name is bad
 
